@@ -20,8 +20,7 @@ cdcHub, also known as Tanveer Ahmed, is a skilled React Native developer with a 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cdcHub)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/cdcHub) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tanveer-cdcHub/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanveer-cdcHub/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdcHub)](https://github.com/anuraghazra/github-readme-stats)
 

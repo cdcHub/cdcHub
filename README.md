@@ -18,15 +18,5 @@ Here are some ideas to get you started:
 
 cdcHub, also known as Tanveer Ahmed, is a skilled React Native developer with a passion for creating high-quality mobile applications. With years of experience under his belt, Tanveer is proficient in the latest programming languages and techniques, and always stays up-to-date with the latest trends and developments in his field. He is known for his attention to detail and his ability to deliver projects on time and within budget, and is highly respected by his peers for his technical expertise and professionalism. Whether he is working on a small project or a large-scale application, Tanveer always puts his best foot forward and strives for excellence in everything he does.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cdcHub)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanveer-cdcHub/)
-
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=cdcHub&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cdcHub)  
-
-![GitHub metrics](https://metrics.lecoq.io/cdcHub)  
-
-![Profile views](https://gpvc.arturio.dev/cdcHub)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdcHub&hide_progress=true)

@@ -1,22 +1,30 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
 
-<!--
-**cdcHub/cdcHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+ 
+</div>
+<div>
+  <img src="https://komarev.com/ghpvc/?username=cdcHub&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-Skills: REACT / React Native / JS / TYPESCRIPT
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on React Native projects.
-- 🌱 I’m currently learning Node Js
-- 👯 I’m looking to collaborate on React Native projects.
-- 💬 Ask me about React Native.
-- 📫 How to reach me: Email : 792tanvir@gmail.com
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me : 
+I am a Mobile App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
 
 
-cdcHub, also known as Tanveer Ahmed, is a skilled React Native developer with a passion for creating high-quality mobile applications. With years of experience under his belt, Tanveer is proficient in the latest programming languages and techniques, and always stays up-to-date with the latest trends and developments in his field. He is known for his attention to detail and his ability to deliver projects on time and within budget, and is highly respected by his peers for his technical expertise and professionalism. Whether he is working on a small project or a large-scale application, Tanveer always puts his best foot forward and strives for excellence in everything he does.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=cdcHub&show_icons=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdcHub&hide_progress=true)
+</div>
